@@ -7,7 +7,7 @@
 
 
 #####
- ESPAÑOL
+-- ESPAÑOL --
 #####
 
 Archivo Excel para seguir tu progreso de domesticación de criaturas
@@ -64,9 +64,9 @@ E) DESCARGAS Y AYUDA
    Cualquier error o corrección, déjalo en los comentarios de Steam.
 
 
-################################################################
- ENGLISH
-################################################################
+#####
+-- ENGLISH --
+#####
 
 Excel file to track your creature taming progress in
 ARK: Survival Ascended.
